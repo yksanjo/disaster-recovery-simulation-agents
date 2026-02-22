@@ -1,10 +1,10 @@
-# Disaster Recovery Simulation with Agents
+# disaster-recovery-simulation-agents
 
-Run DR game-days and autonomous failover scenario simulations.
+## Detailed Description
 
 ## Vertical
 
-infrastructure
+## Problem Statement
 
 ## Production MVP Deliverables
 
